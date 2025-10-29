@@ -1,2 +1,7 @@
 # ATM_Simulator
-Mini Bank but Debit and Credit Using ATM
+Technology used: Java, MySQL, AWT, JDBC 
+    Designed and developed an ATM Simulator System using 
+Java Swing for GUI and AWT event handling for user 
+interactions. 
+    Integrated MySQL database using JDBC to manage user 
+details, transactions, and account records securely. 
